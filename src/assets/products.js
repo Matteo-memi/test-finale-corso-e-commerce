@@ -1,6 +1,6 @@
 export const products = [
   {
-      id: 'zRBijf9EHrDQ',
+      id: '1',
       title: 'Macbook m1',
       price: 1000,
       category:'pc',
